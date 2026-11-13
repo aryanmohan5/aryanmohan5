@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aryan Mohan 👋</h1>
+<h1 align="center">Hi, I'm Aryan Mohan</h1>
 <h3 align="center">AI Engineer · Generative AI, LLM Agents & RAG on Google Cloud</h3>
 
 <p align="center">
@@ -42,4 +42,4 @@ Previously: Founder & AI Architect at ARMAX Solutions (B2B GenAI consultancy) ·
 ### Certification
 Microsoft Certified: **Azure AI Engineer Associate (AI-102)**
 
-🎓 B.Tech CSE (AI & ML), UPES Dehradun, 2025
+B.Tech CSE (AI & ML), UPES Dehradun, 2025
